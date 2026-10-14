@@ -1,0 +1,1 @@
+window.ACTIVITY_CONFIG = {"supabaseUrl":"https://bxvuqwnmqooxaoexnjty.supabase.co","publishableKey":"sb_publishable_gv_lK9K2hrReKQvC-5Ou7Q_vI9c1NwI","endpoint":"https://bxvuqwnmqooxaoexnjty.supabase.co/functions/v1/atividade-permutacao","teacherEmail":"natanael.igor.nogueira@prof.am.gov.br"};
